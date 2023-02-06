@@ -18,6 +18,7 @@
     "@angular/platform-browser": "^14.0.0-next.0",
     "@angular/platform-browser-dynamic": "^14.0.0-next.0",
     "@angular/router": "^14.0.0-next.0",
+    "kore-web-sdk": "git+https://github.com/Koredotcom/web-kore-sdk.git#v2/sneakpeek",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
